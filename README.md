@@ -227,4 +227,12 @@ string.lstrip() #앞 공백 제거
       + ,(comma)로 구분   
       + tuple()함수로 형변환   
       + tuple생성시 하나의 값이라도 반드시 ,(comma)를 포함해야 한다. 
+    
+   - sequende자료형 공통 연산-tuple   
+      + indexing   
+      + slicing   
+      + 길이계싼   
+      + 포함 윰 확인   
+      + 연결   
+      + 반복
    
